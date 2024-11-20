@@ -2,7 +2,7 @@
 
 I am Ahmad Reza Azimi, people call me Ani, a recent software enthusiast. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ahmad-reza-azimi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-reza-azimi/)](https://www.linkedin.com/in/ahmad-reza-azimi/)
+[![Linkedin Badge](https://img.shields.io/badge/-ahmad-reza-azimi-07a5b0184-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-reza-azimi/)](https://www.linkedin.com/in/ahmad-reza-azimi/)
 [![Gmail Badge](https://img.shields.io/badge/-ahazimi.sfr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ahazimi.sfr@gmail.com)
 
 ## ⚡ Technologies
