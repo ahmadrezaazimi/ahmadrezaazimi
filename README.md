@@ -38,4 +38,4 @@ I am Ahmad Reza Azimi, people call me Ani, a recent software enthusiast. I am a 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadrezaazimi&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmadrezaazimi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmadrezaazimi.id)
